@@ -17,8 +17,9 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: Verdana;
+    font-family: Tahoma;
     color: #000000;
+    background-image: url(bg.png);
 }
 .container{
     width: 400px;
@@ -81,7 +82,7 @@ div.container input#btn{
 }
 p.error{
     text-align: center;
-    font-family: Verdana;
+    font-family: Tahoma;
     font-weight: bold;
     font-size: 12px;
     color: #9B3200;

@@ -19,6 +19,9 @@
     padding: 0px;
     font-family: Tahoma;
     color: #000000;
+}
+
+body{
     background-image: url(bg.png);
 }
 .container{
